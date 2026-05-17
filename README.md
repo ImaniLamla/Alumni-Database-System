@@ -335,7 +335,8 @@ This project was developed for educational purposes.
 ---
 # 📄 Notes
 
-Sample data was used to test and complete this project.
+Sample data was used for this project. Actual records from Wayne State College was not used.
+
 ---
 
 # 🔖 Tags
